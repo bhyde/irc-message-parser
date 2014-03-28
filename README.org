@@ -1,0 +1,2 @@
+A parser for IRC messages, including something deal with
+the formatting markup.
